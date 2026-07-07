@@ -2,10 +2,10 @@ class Algochains < Formula
   desc "AI-native algorithmic trading CLI — 482 MCP tools, no IDE required"
   homepage "https://algochains.ai"
   # Installs from PyPI (public) — the GitHub release asset requires auth (private repo).
-  url "https://files.pythonhosted.org/packages/1b/80/a09ad53a7e0e1617f2f3dff1ebfd06fba125963c1f5058286946a329648f/algochains_mcp_server-22.4.0.tar.gz"
-  sha256 "b929804a9942a6cff1c46dd822d45fc42cd564d81562108b3feeb3e6881caeb0"
+  url "https://files.pythonhosted.org/packages/a4/5d/ffb1c9bb1004856bbfa7654c6e123ea2463ffda479a3ed6f74658c467078/algochains_mcp_server-22.7.1.tar.gz"
+  sha256 "3fc24ad7226a1570ab7375a6916453f04f616caed35ebdec9257bb9e41da04e3"
   license "MIT"
-  version "22.4.0"
+  version "22.7.1"
 
   # CI auto-update: on each release the sha256/url/version are updated via the
   # update-homebrew GitHub Actions job. The PyPI URL format is:
