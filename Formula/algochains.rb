@@ -1,5 +1,5 @@
 class Algochains < Formula
-  desc "AI-native algorithmic trading CLI — 482 MCP tools, no IDE required"
+  desc "AI-native algorithmic trading CLI — 533 MCP tools, no IDE required"
   homepage "https://algochains.ai"
   # Installs from PyPI (public) — the GitHub release asset requires auth (private repo).
   url "https://files.pythonhosted.org/packages/a4/5d/ffb1c9bb1004856bbfa7654c6e123ea2463ffda479a3ed6f74658c467078/algochains_mcp_server-22.7.1.tar.gz"
